@@ -1,0 +1,25 @@
+
+RSVP Menu
+0. Done.
+1. Find by CRN.
+2. Find by subject.
+Your choice (0 - 2): Please enter a subject: 61665 POL 001
+60172 POL 003
+61666 POL 004
+60173 POL 051
+60188 POL 105
+60189 POL 106
+61667 POL 118C
+60193 POL 121
+60198 POL 150
+60199 POL 151
+61670 POL 154
+61672 POL 192A
+61673 POL 192B
+61812 POL 196C
+
+RSVP Menu
+0. Done.
+1. Find by CRN.
+2. Find by subject.
+Your choice (0 - 2): 
